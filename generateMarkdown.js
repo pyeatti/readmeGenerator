@@ -6,7 +6,7 @@ function generateMarkdown(data) {
  ${data.projectDescription}
     
 ## Table of Contents
-* [Instalation](##Installation)
+* [Installation](##Installation)
 * [Usage](##Usage)
 * [License](##License)
 * [Contribution](##Contribution) 

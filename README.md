@@ -5,7 +5,7 @@
  This is a quick little app that allows you to generate a pre-formatted markdown with all the necessary information based on user input.
     
 ## Table of Contents
-* [Instalation](##Installation)
+* [Installation](##Installation)
 * [Usage](##Usage)
 * [License](##License)
 * [Contribution](##Contribution) 
