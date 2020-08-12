@@ -59,7 +59,7 @@ let questions = [
 
 function init() {
   inquirer.prompt(questions).then((data) => {
-    fs.writeFile("READMEexample.md", generateMarkdown(data), function (err) {
+    fs.writeFile("README.md", generateMarkdown(data), function (err) {
       if (err) {
         console.log(err);
       }
